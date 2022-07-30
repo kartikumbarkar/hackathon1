@@ -8,3 +8,4 @@ npm i @prisma/client
 # above commands allow us to access prisma from nextjs
 npx prisma generate
 # whenever there is change in schema or model we have to do it
+npx prisma format 
